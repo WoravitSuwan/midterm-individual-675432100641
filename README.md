@@ -102,7 +102,7 @@ npm install
 
 # 3. Run server
 npm start
-<img width="1980" height="1087" alt="Screenshot 2569-01-14 at 11 29 02" src="https://github.com/user-attachments/assets/8fe66ec1-f20b-42af-b799-209cef6dcc21" />
+<img width="1980" height="1087" alt="Screenshot 2569-01-14 at 11 29 02" src="https://github.com/user-attachments/assets/f58adba7-6a1d-4bb3-8c6c-b4bbacba8960" />
 
 
 # 4. Test API
