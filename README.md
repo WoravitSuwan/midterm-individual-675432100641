@@ -101,8 +101,19 @@ npm install
 npm start
 เปิด Browser: http://localhost:3000
 
+<img width="1980" height="1087" alt="Screenshot 2569-01-14 at 11 29 02" src="https://github.com/user-attachments/assets/00b694c2-63d8-4124-9110-c464abfdab12" />
+
 📸 Screenshots
-<img width="1980" height="1087" alt="Run Server" src="https://github.com/user-attachments/assets/f58adba7-6a1d-4bb3-8c6c-b4bbacba8960" /> <img width="1757" height="913" alt="Get All Students" src="https://github.com/user-attachments/assets/6aba6670-0b2e-4eb5-910a-2af95e23c624" /> <img width="1757" height="913" alt="Get Student by ID" src="https://github.com/user-attachments/assets/dd079255-0950-47a4-9843-3177ca898686" /> <img width="1757" height="913" alt="Create Student" src="https://github.com/user-attachments/assets/87c80f33-7e4e-4a64-bf19-20a9a12eb040" /> <img width="1757" height="913" alt="Update Student" src="https://github.com/user-attachments/assets/a41dd7f3-72b8-4668-a21a-239ee1b83abd" /> <img width="1757" height="913" alt="Delete Student" src="https://github.com/user-attachments/assets/9b67fe72-bbe2-4c1d-8b97-73e7b8acca4f" />
+<img width="1757" height="913" alt="Screenshot 2569-01-14 at 11 28 53" src="https://github.com/user-attachments/assets/2dc3b607-0878-4b5b-943e-a8622385eee4" />
+
+<img width="1757" height="913" alt="Screenshot 2569-01-14 at 11 26 39" src="https://github.com/user-attachments/assets/3188c4bb-d6ca-40d0-82f3-030c840b09cb" />
+
+<img width="1757" height="913" alt="Screenshot 2569-01-14 at 11 22 11" src="https://github.com/user-attachments/assets/df0e0e47-b24c-40aa-9584-1288f3c43d04" />
+
+<img width="1757" height="913" alt="Screenshot 2569-01-14 at 11 20 41" src="https://github.com/user-attachments/assets/e9514963-effd-4adc-9182-3c8d3c5e1971" />
+
+<img width="1757" height="913" alt="Screenshot 2569-01-14 at 11 19 20" src="https://github.com/user-attachments/assets/0917b757-058e-4eb5-a6e9-4a81b9cba565" />
+
 📝 API Endpoints
 GET /api/students
 ดึงข้อมูลนักศึกษาทั้งหมด (รองรับ query major, status)
